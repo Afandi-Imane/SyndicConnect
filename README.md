@@ -46,30 +46,31 @@
 - CSS personnalisé : UI & design
 - MySQL : Base de données
 - Maven : Gestion des dépendances
+  
+---
+
 
 ## 📸 Captures d’écran 
 ## 🔐 Login et authentification
-https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/Login%20et%20authentification.png
+![image alt](https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/Login%20et%20authentification.png)
 ## 🧑‍💼 Dashboard Syndic
-https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/dashboard-syndic.png
+![image alt](https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/dashboard-syndic.png)
 ## 📋 Gestion des problèmes "Syndic"
-https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/problemes-syndic.png
+![image alt](https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/problemes-syndic.png)
 ## 📢 Gestion des Annonces "Syndic"
-https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/annonces-syndic.png
+![image alt](https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/annonces-syndic.png)
 ## 🏢 Cotisations & gestion des résidents "Syndic"
-https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/cotisations%20%26%20r%C3%A9sidents%20-syndic.png
+![image alt](https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/cotisations%20%26%20r%C3%A9sidents%20-syndic.png)
 
 
 ## 🧑‍💼 Dashboard Résident
-https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/dashboard-r%C3%A9sident.png
+![image alt](https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/dashboard-r%C3%A9sident.png)
 ## 📋 Gestion des problèmes "Résident"
 "Liste, suivi et détails d’un problème"
-https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/problemes-r%C3%A9sident.png
+
+![image alt](https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/problemes-r%C3%A9sident.png)
 ## 📋 Fonctionnalités Résident 
 "Signalement, cotisations et annonces du syndic"
-https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/resident-features.png
 
+![image alt](https://github.com/Afandi-Imane/SyndicConnect/blob/8da16be80007ac136e0f8586cc7bdd63de9ba9d0/Captures%20d%E2%80%99%C3%A9cran/resident-features.png)
 
-
----
-📸 Captures d’écran
